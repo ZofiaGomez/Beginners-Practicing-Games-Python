@@ -2,7 +2,7 @@
 
 Some silly games you can use to start familiarizing with Python language (understanding statements, loops, functions)
 
-## What does this repository has to offer?
+## What does this repository have to offer?
 
 The documents provided in this repository are listed by **complexity order**. 
 
